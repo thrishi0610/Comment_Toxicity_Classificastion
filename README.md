@@ -54,6 +54,9 @@ Due to file size restrictions on GitHub, the full dataset files are hosted exter
 - [Download test_label.csv](https://drive.google.com/file/d/1hvcBHOqAAu2TYhxtijDenBXPqYXNBAWz/view?usp=drive_link)
 
 > Note: You can download and upload them to your Google Colab environment or mount Google Drive.
+>
+> Refer this for Model saving and exporting
+> https://drive.google.com/file/d/1ELBWVhZTWG6Veifo3gSzcZRFKQHOLaep/view?usp=drive_link
 
 
 **Dataset Source:**
