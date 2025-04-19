@@ -45,6 +45,17 @@ insult
 
 identity_hate
 
+**## 📁 Dataset Access**
+
+Due to file size restrictions on GitHub, the full dataset files are hosted externally.
+
+- [Download train.csv](https://drive.google.com/file/d/18g3p7jkKi6kKI2gFsCMsTXzbYcyFKnZX/view?usp=drive_link)
+- [Download test.csv](https://drive.google.com/file/d/1FN0AW16GX-Nwgk76PL6E6A4C8Cx8zW01/view?usp=drive_link)
+- [Download test_label.csv](https://drive.google.com/file/d/1hvcBHOqAAu2TYhxtijDenBXPqYXNBAWz/view?usp=drive_link)
+
+> Note: You can download and upload them to your Google Colab environment or mount Google Drive.
+
+
 **Dataset Source:**
 Kaggle - Jigsaw Toxic Comment Classification Challenge
 
